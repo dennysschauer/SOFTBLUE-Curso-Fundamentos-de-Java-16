@@ -1,4 +1,4 @@
-package herancapolimorfismo.Aula_6_4_maispolimorfismo;
+package herancapolimorfismo.Aula_6_5_maispolimorfismo;
 
 public class Bebida {
 	private String nome;
