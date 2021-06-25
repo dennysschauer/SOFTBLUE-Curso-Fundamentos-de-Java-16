@@ -1,0 +1,15 @@
+package tratamentodeexcecoes.Aula_8_2_tratandoelancandocheckedexceptions;
+
+@SuppressWarnings("serial")
+public class ValorNegativoException extends Exception {
+	
+	private double valor;
+	
+	public ValorNegativoException(double valor) {
+		this.valor = valor;
+	}
+	
+	public double getValor() {
+		return valor;
+	}
+}
