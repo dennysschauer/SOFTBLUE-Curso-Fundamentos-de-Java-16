@@ -1,4 +1,4 @@
-package stringsdataenumeros.Aula_9_7_dateandtimeapi;
+package stringsdatasenumeros.Aula_9_7_dateandtimeapi;
 
 import java.time.Duration;
 import java.time.LocalDateTime;
