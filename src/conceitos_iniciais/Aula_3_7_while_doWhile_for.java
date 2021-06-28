@@ -1,4 +1,4 @@
-package conceitosiniciais;
+package conceitos_iniciais;
 
 public class Aula_3_7_while_doWhile_for {
 

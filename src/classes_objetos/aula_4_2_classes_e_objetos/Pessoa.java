@@ -1,4 +1,4 @@
-package classesemetodos.Aula_4_2_ClasseseObjetos;
+package classes_objetos.aula_4_2_classes_e_objetos;
 
 public class Pessoa {
 	String nome;

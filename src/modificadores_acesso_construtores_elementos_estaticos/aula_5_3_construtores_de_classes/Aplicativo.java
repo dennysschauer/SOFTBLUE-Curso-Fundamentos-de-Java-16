@@ -1,4 +1,4 @@
-package acessoconstrutoreselementosestaticos.Aula_5_3_ConstrutoresdeClasses;
+package modificadores_acesso_construtores_elementos_estaticos.aula_5_3_construtores_de_classes;
 
 public class Aplicativo {
 
