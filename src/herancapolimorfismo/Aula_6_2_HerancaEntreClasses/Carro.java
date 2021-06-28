@@ -1,4 +1,4 @@
-package herancapolimorfismo_Aula_6._2_HerancaEntreClasses;
+package herancapolimorfismo.Aula_6_2_HerancaEntreClasses;
 
 public class Carro extends Veiculo {
 	boolean quatroPortas;
