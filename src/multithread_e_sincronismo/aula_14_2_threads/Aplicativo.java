@@ -1,4 +1,4 @@
-package multithred_e_sincronismo.aula_14_2_threads;
+package multithread_e_sincronismo.aula_14_2_threads;
 
 public class Aplicativo {
 
